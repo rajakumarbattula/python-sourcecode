@@ -1,6 +1,6 @@
 a, b = 0, 1
 count=0
-n=int(input(' enter any any number : '))
+n=10
 if n <= 0:
    print('number is invalid')
 elif n == 1:
